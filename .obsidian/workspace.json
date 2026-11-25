@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4b464f073043e084",
+        "id": "db6ea01ed434b3fd",
         "type": "tabs",
         "children": [
           {
-            "id": "fa2955248b21bb6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          },
-          {
-            "id": "53e65b7168853e37",
+            "id": "eef595630554a058",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -33,23 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "README"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "db6ea01ed434b3fd",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "eef595630554a058",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
             }
           }
         ]
@@ -130,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -190,6 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -218,8 +190,20 @@
   },
   "active": "eef595630554a058",
   "lastOpenFiles": [
-    "README.md",
     "Untitled.md",
+    "README.md",
+    "04-Phase-Security-Redis-Docker/_Index.md",
+    "03-Phase-Networking-DB-API/_Index.md",
+    "01-Phase-CS-and-CSharp/_Index.md",
+    "00-Cheatsheets-and-Diagrams/_Index.md",
+    "05-Phase-AI-FullStack-Career/_Index.md",
+    "05-Phase-AI-FullStack-Career",
+    "04-Phase-Security-Redis-Docker",
+    "03-Phase-Networking-DB-API",
+    "02-Phase-DSA-Interviews/_Index.md",
+    "02-Phase-DSA-Interviews",
+    "01-Phase-CS-and-CSharp",
+    "00-Cheatsheets-and-Diagrams",
     "Welcome.md"
   ]
 }

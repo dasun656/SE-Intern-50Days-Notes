@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "01-Phase-CS-and-CSharp/Day-01-Setup-and-OS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Day-01-Setup-and-OS"
             }
           }
         ]
@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c967a7627403765a",
@@ -99,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,12 +191,15 @@
   },
   "active": "eef595630554a058",
   "lastOpenFiles": [
-    "Untitled.md",
+    "00-Cheatsheets-and-Diagrams/_Index.md",
+    "01-Phase-CS-and-CSharp/Day-01-Setup-and-OS.md",
+    "01-Phase-CS-and-CSharp/_Index.md",
+    "Untitled 1.md",
+    "Welcome.md",
     "README.md",
+    "Untitled.md",
     "04-Phase-Security-Redis-Docker/_Index.md",
     "03-Phase-Networking-DB-API/_Index.md",
-    "01-Phase-CS-and-CSharp/_Index.md",
-    "00-Cheatsheets-and-Diagrams/_Index.md",
     "05-Phase-AI-FullStack-Career/_Index.md",
     "05-Phase-AI-FullStack-Career",
     "04-Phase-Security-Redis-Docker",
@@ -203,7 +207,6 @@
     "02-Phase-DSA-Interviews/_Index.md",
     "02-Phase-DSA-Interviews",
     "01-Phase-CS-and-CSharp",
-    "00-Cheatsheets-and-Diagrams",
-    "Welcome.md"
+    "00-Cheatsheets-and-Diagrams"
   ]
 }
